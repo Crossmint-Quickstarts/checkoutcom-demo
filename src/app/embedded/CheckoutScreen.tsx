@@ -20,6 +20,27 @@ function CheckoutScreen() {
         <div className="w-full h-screen bg-white">
             <h1 className="text-2xl font-bold text-center p-4">Checkout Demo</h1>
             <CrossmintEmbeddedCheckout
+                // recipient={{
+                //     email: "cben3000@gmail.com",
+                // }}
+                // lineItems={{
+                //     collectionLocator: "crossmint:fe3aa17a-f4b2-4d32-9a62-baa2f9cfc04a",
+                //     callData: {
+                //     },
+                // }}
+                // payment={
+                //     {
+                //         method: "checkoutcom-flow",
+                //         crypto: {
+                //             enabled: false,
+                //         },
+                //         fiat: {
+                //             enabled: true,
+
+                //         },
+                //         receiptEmail: "veniamin+3000@paella.dev",
+                //     } as any
+                // }
                 recipient={{
                     walletAddress: "EbRQbwu6pzkZ1DgY8YX5wWqk4tqdoGHXzTL8th1PmzqP",
                 }}

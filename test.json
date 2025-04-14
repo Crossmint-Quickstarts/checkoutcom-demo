@@ -1,0 +1,71 @@
+{
+	"title": "Thank you for your order!",
+	"destinationAddress": "0xf80a2ee14CC2E6187d5F75CF7FdfAC4B5A34aC91",
+	"greetings": "Hi, your item(s) have been delivered to your wallet address at",
+	"summaryTitle": "Order summary",
+	"summarySubtitle": "Order ID: 3f847967-a313-406e-b767-11de90f444a7",
+	"txLabel": "TxId:",
+	"subTotalLabel": "Sub total",
+	"gasLabel": "Gas fees",
+	"salesTaxLabel": "Sales tax",
+	"shippingLabel": "Shipping",
+	"totalLabel": "Total",
+	"legalFooter": "Crossmint ® 2024 Crossmint Inc.<br />All rights reserved.",
+	"logoUrl": "https://cdn.mcauto-images-production.sendgrid.net/60dce2e0bed4c8e7/687cb00d-6388-4748-8e20-77f4afcf4eda/601x114.png",
+	"ui": {
+		"logoBackgroundColor": "#ffffff",
+		"lineBreakColor": "#e7e7e7",
+		"explorerLinkColor": "#04AA6D",
+		"backgroundColor": "#fafafa",
+		"paper": "#ffffff",
+		"primary": "#000000",
+		"secondary": "#808080",
+		"ctaBackgroundColor": "#04aa6d",
+		"ctaColor": "#FFFFFF"
+	},
+	"socialNetworks": [
+		{
+			"imageUrl": "https://cdn.mcauto-images-production.sendgrid.net/60dce2e0bed4c8e7/1dd2e437-bb78-41c7-a03f-d93428aca3c1/88x72.png",
+			"linkUrl": "https://twitter.com/crossmint"
+		},
+		{
+			"imageUrl": "https://cdn.mcauto-images-production.sendgrid.net/60dce2e0bed4c8e7/f4203a16-5a97-4a0a-b29d-b82c73e3aa6f/88x88.png",
+			"linkUrl": "https://discord.com/invite/crossmint"
+		},
+		{
+			"imageUrl": "https://cdn.mcauto-images-production.sendgrid.net/60dce2e0bed4c8e7/99e92b36-1b6c-4c74-a7b1-5a69d5753a58/88x86.png",
+			"linkUrl": "https://github.com/crossmint"
+		},
+		{
+			"imageUrl": "https://cdn.mcauto-images-production.sendgrid.net/60dce2e0bed4c8e7/ab52fe14-0ec1-4f93-a1a2-3aab310b4e20/88x63.png",
+			"linkUrl": "https://www.youtube.com/@crossmint"
+		}
+	],
+	"footerLinks": [
+		{ "label": "crossmint.com", "linkUrl": "https://www.crossmint.com" },
+		{ "label": "Blog", "linkUrl": "https://www.crossmint.com/blog" },
+		{ "label": "Help Center", "linkUrl": "https://help.crossmint.com/hc/en-us" }
+	],
+	"lineItems": [
+		{
+			"price": "$8.00",
+			"tokens": [
+				{
+					"name": "Batman Ape",
+					"quantity": "1",
+					"imageUrl": "https://crossmint.myfilebase.com/ipfs/bafkreig6hdghyk6mr5xpvg2r5fvbkcjgs66xeomecprlqpzp7hyy6zo7cy"
+				}
+			],
+			"txId": "0x102358a9…54c36fc045",
+			"txUrl": "https://sepolia.etherscan.io/tx/0x102358a920c91e5d44084ccce8f80eb42562172f97978e1a5811f654c36fc045"
+		}
+	],
+	"subTotalPrice": "$8.00",
+	"gasPrice": "$1.10",
+	"totalPrice": "$9.10",
+	"isDestinationCustodialWallet": false,
+	"isPendingVerification": false,
+	"hideCta": false,
+	"hideGasFees": false,
+	"subject": "Crossmint Order Receipt"
+}
